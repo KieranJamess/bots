@@ -1,0 +1,3 @@
+This bot was designed to move a user to a different channel if they say the word 'Who'. This was because someone in our server was abusing the word in a sense of a recent trend and it got annoying. 
+
+It also has a logging system to send all speech picked up to a seperate discord text channel (which we mute but is there for auditing purposes) and send a 'who' counter to the main general text channel. 
